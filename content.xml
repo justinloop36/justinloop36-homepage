@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<homepage>
+    <header>Welcome to My Weird Corner of the Internet</header>
+    <marquee>Under Construction - Forever</marquee>
+    <content>
+        <section title="Why am I here?">I just learned how to use XSLT and I have no idea how to stop.</section>
+        <section title="My Links">
+            <link url="https://google.com">Search things</link>
+            <link url="https://wikipedia.org">Waste time</link>
+        </section>
+    </content>
+    <guestbook>
+        <entry name="CoolGuy99">Nice site bro!</entry>
+        <entry name="User404">Where am I?</entry>
+    </guestbook>
+</homepage>
